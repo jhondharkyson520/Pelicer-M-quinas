@@ -1,0 +1,219 @@
+
+[
+    {
+        "title": "Máquina P1",
+        "description": "A Máquina P1 é ideal para vulcanizar pneus de camionetes e retroescavadeiras com aros de 15 a 18 polegadas. Equipada com um painel digital de fácil uso, 3 pares de talões de alumínio, e um consumo de energia de 5,5 kW/hora (cada pneu consome em média 9 kW). Com capacidade de produção diária de 4 a 5 pneus e peso de 120 kg, é a escolha perfeita para eficiência e precisão.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP1.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP1.png" }
+        ]
+    },
+    {
+        "title": "Máquina P2 - Caminhão",
+        "description": "Projetada para pneus de carga, a Máquina P2 atende a aros de 20, 22, 22.5, e 305x24.5 polegadas. Conta com painel digital, 3 pares de talões de alumínio, e um consumo de energia de 8 kW/hora (cada pneu consome em média 16 kW). Com capacidade para produzir de 3 a 4 pneus por dia e pesando 200 kg, é uma solução robusta e eficiente para o seu negócio.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP2-2.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP2.png" }
+        ]
+    },
+    {
+        "title": "Máquina P2 Dupla - Caminhão",
+        "description": "A Máquina P2 Dupla eleva a produtividade com capacidade para vulcanizar até 2 pneus de carga em aros de 20, 22, 22.5, e 305x24.5 polegadas. Equipado com um painel digital e 4 pares de talões de alumínio, seu consumo de energia é de 15 kW/hora (cada pneu consome em média 30 kW). Produz de 6 a 8 pneus por dia e pesa 240 kg, proporcionando maior eficiência e resultados superiores.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP2Dupla.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP2Dupla.png" }
+        ]
+    },
+    {
+        "title": "Máquina P2 Tripla - Caminhão",
+        "description": "Para máxima produtividade, a Máquina P2 Tripla vulcaniza até 3 pneus de carga com aros de 20, 22, 22.5, e 305x24.5 polegadas. Com painel digital, 5 pares de talões de alumínio, e consumo de energia de 25.5 kW/hora (cada remessa de 3 pneus consome em média 51 kW), produz de 9 a 12 pneus por dia e pesa 280 kg, otimizando seu processo de vulcanização.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP2Tripla.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP2Tripla.png" }
+        ]
+    },
+    {
+        "title": "Máquina P2.5 - Caminhão e Agrícola",
+        "description": "A Máquina P2.5 é versátil, ideal para TODOS pneus de carga, agrícolas com aros 20, 22, 22.5, 305x24.5, 24, 24.5, 26, 28, 30, 34 e 17.5. Inclui painel digital e 4 pares de talões de alumínio, com consumo de energia de 15 kW/hora (cada pneu consome em média 16 kW). Produz de 3 a 4 pneus por dia e pesa 230 kg, oferecendo flexibilidade e eficiência em uma única máquina.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP2.5.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP2.5-2.png" }
+        ]
+    },
+    {
+        "title": "Máquina P2.5 Dupla - Caminhão e Agrícola",
+        "description": "A Máquina P2.5 Dupla é projetada para máxima eficiência em TODOS pneus de carga e agrícolas com aros 20, 22, 22.5, 305x24.5, 24, 24.5, 26, 28, 30, 34 e 17.5. Com painel digital, 6 pares de talões de alumínio, e consumo de energia de 22 kW/hora (cada remessa de 2 pneus consome em média 45 kW), produz de 6 a 8 pneus por dia e pesa 280 kg, garantindo alta produtividade.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP2.5Dupla.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP2.5Dupla.png" }
+        ]
+    },
+    {
+        "title": "Máquina P4 - Agrícola e Fora de Estrada",
+        "description": "A Máquina P4 é ideal para vulcanizar pneus agrícolas e fora de estrada com aros 24, 26, 28, 30, 32, 34, 38, 17.5, 20.5, 23.5. Conta com painel digital e um consumo de energia de 22 kW/hora (cada pneu consome em média 50 kW). Produz de 1 a 2 pneus por dia e pesa 320 kg, oferecendo potência e precisão para grandes demandas.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP4.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP4-3.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP4-2.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaP4-4.png" }
+        ]
+    },
+    {
+        "title": "Máquina Talão",
+        "description": "A Máquina Talão é projetada para vulcanizar trincos nos talões e laterias. Com 3 rodas e 3 anéis, consumo de energia de 5 kW/hora (cada pneu consome em média 8 kW), capacidade de produção diária de 4 a 5 pneus e peso de 180 kg, é uma ferramenta essencial para manutenção eficiente.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaTalao.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaTalao.png" }
+        ]
+    },
+    {
+        "title": "Roda para Conserto de Pneus de Caminhão",
+        "description": "A Roda Especial é uma solução prática para vulcanização, substituindo a bexiga. Disponível em diversos tamanhos, garante versatilidade e eficiência nos consertos de pneus de caminhão.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgRodaCaminhao.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgRodaCaminhao.png" }
+        ]
+    },
+    {
+        "title": "Roda para Conserto de Pneus Agrícola",
+        "description": "A Roda para Conserto de Pneus Agrícolas oferece uma solução eficiente para reparos em pneus agrícolas, disponível em diversos tamanhos para atender suas necessidades.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgRodaAgricola.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgRodaAgricola.png" }
+        ]
+    },
+    {
+        "title": "Talão de Alumínio",
+        "description": "O Talão de Alumínio é especialmente projetado para rodas de vulcanização, disponível em diversos tamanhos para atender diferentes necessidades.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgTalaoAluminio.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgTalaoAluminio.png" }
+        ]
+    },
+    {
+        "title": "Esmerilho de Chicote",
+        "description": "O Esmerilho Chicote é equipado com motor trifásico – mono de 1,5 CV, 220/380 V, 60 Hz, rotação de 450 rpm, caneta de 5/8, cabo flexível de 30 mm x 2,0 m, e pesa 30 kg. Acompanha engate rápido, cabide e escova de aço emborrachada para máxima eficiência.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgEsmerilhoChicote.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgEsmerilhoChicote.png" }
+        ]
+    },
+    {
+        "title": "Alma do Chicote",
+        "description": "A Alma (cabo interno do chicote) é uma peça essencial para manutenção e reparo do equipamento.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgAlmaChicote.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgAlmaChicote.png" }
+        ]
+    },
+    {
+        "title": "Extrusora e Painéis Digitais",
+        "description": "A Extrusora Digital e Painéis Digitais proporcionam controle preciso e eficiência para os processos de vulcanização.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgExtrusoraPaineis.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgExtrusora.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgPainelMaquina.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgPainelSargento.png" }
+        ]
+    },
+    {
+        "title": "Abridor de Pneus 3 Pistões",
+        "description": "O Abridor de Pneus 3 Pistões é projetado para facilitar a abertura e reparo de pneus, garantindo eficiência no processo.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgAbridor.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgAbridor.png" }
+        ]
+    },
+    {
+        "title": "Auto Clave - Caminhão",
+        "description": "A Auto Clave é uma ferramenta essencial para processos de vulcanização, oferecendo alta eficiência e confiabilidade.",
+        "media": [                
+            { "type": "image", "src": "assets/pelicer/Products/imgAutoClave2.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgAutoClave3.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgAutoClave4.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgAutoClave.png" }
+        ]
+    },
+    {
+        "title": "Torno Raspa com Gabarito",
+        "description": "O Torno Raspa com Gabarito proporciona precisão e facilidade na raspagem e preparação de pneus para vulcanização.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgTornoRaspa2.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgTornoRaspa3.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgTornoRaspa.png" }
+        ]
+    },
+    {
+        "title": "Examinadora de Pneus",
+        "description": "A Examinadora de Pneus permite uma inspeção detalhada e precisa, garantindo qualidade nos reparos e manutenção.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgExaminadora2.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgExaminadora.png" }
+        ]
+    },
+    {
+        "title": "Máquina de tirar Banda Vertical - Caminhão",
+        "description": "A Máquina de Tirar Banda Vertical é projetada para remover bandas de rodagem com precisão e eficiência.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaBanda2.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaBanda.png" }
+        ]
+    },
+    {
+        "title": "Mesa de Montagem",
+        "description": "A Mesa de Montagem oferece uma plataforma robusta e estável para a montagem e reparo de pneus.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgMesaMontagem.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgMesaMontagem.png" }
+        ]
+    },
+    {
+        "title": "Envelopadeira Vertical",
+        "description": "A Envelopadeira Vertical é ideal para processos de vulcanização, proporcionando uma aplicação precisa e uniforme.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgEnvelopadeiraVertical.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgEnvelopadeiraVertical.png" }
+        ]
+    },
+    {
+        "title": "Envelopadeira Horizontal",
+        "description": "A Envelopadeira Horizontal garante uma aplicação eficiente e uniforme para processos de vulcanização.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgEnvelopadeiraHorizontal.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgEnvelopadeiraHorizontal.png" }
+        ]
+    },
+    {
+        "title": "Descolador Hidropneumático - Agrícola",
+        "description": "O Descolador Hidropneumático facilita a remoção de pneus de aros, oferecendo uma solução rápida e eficiente.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgDescolador.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgDescolador.png" }
+        ]
+    },
+    {
+        "title": "Máquina Vulcanizadora de Lateral - Agrícola",
+        "description": " Faz toda lateral de pneus com aro 24, 25, 26, 28, 30, 32, 34, 38, 42",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaVulcanizadoraLateral.png" },
+            { "type": "video", "src": "assets/pelicer/Products/videoMaquinaLateral1.mp4" },
+            { "type": "video", "src": "assets/pelicer/Products/videoMaquinaLateral2.mp4" }
+        ]
+    },
+    {
+        "title": "Sargento Universal - Caminhão e Agrícola",
+        "description": "O Sargento Universal é ideal para vulcanizações rápidas. Capaz de perfurar pregos, parafusos e realizar cortes mínimos em pneus sem câmara. Atua na lateral, meio e ombro de pneus de caminhonetes, caminhões e agrícolas. Esquenta ambos os lados, operando em média 30 minutos de aquecimento e 30 de resfriamento.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgSargentoUniversal.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgSargentoUniversal2.png" }
+        ]
+    },
+    {
+        "title": "Máquina Coxo - Passeio e Camionete",
+        "description": "A Máquina Coxo para Passeio e Camionete é a escolha ideal para vulcanizar pneus de veículos leves e camionetes.",
+        "media": [
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaCoxoPasseio.png" },
+            { "type": "image", "src": "assets/pelicer/Products/imgMaquinaCoxoPasseio.png" }
+        ]
+    }
+]
