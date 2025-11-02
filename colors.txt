@@ -1,0 +1,3 @@
+Azul escuro (Cor Principal) #11344d
+Laranja (Cor secundaria) #db6e0e
+Cinza claro (cor neutra de apoio) #e1e1de

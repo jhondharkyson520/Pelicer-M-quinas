@@ -7,19 +7,21 @@
 
 header {
   width: 100%;
+  background-color: #e1e1de;
 }
 
 .header-content {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  
-  
-
+  background-color: #e1e1de;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 10rem;
 }
 
 i {
-  color: #FFF;
+  color: #11344d;
 }
 
 .header-icons {
@@ -29,7 +31,7 @@ i {
 
 .header-icons a:hover i {
   animation: translateY 0.8s infinite alternate;
-  color: #d34040;
+  color: #db6e0e;
 }
 
 @keyframes translateY {
@@ -41,34 +43,34 @@ i {
   }
 }
 .header-button {
-  border: 1px solid #FFF;
+  border: 1px solid #11344d;
   padding: 8px 24px;
   border-radius: 4px;
-  color: #FFF;
+  color: #11344d;
   background-color: transparent;
   transition: background-color 0.8s;
 }
 
 .header-button:hover {
-  border: 1px solid #d34040;
-  background-color: #d34040;
+  border: 1px solid #db6e0e;
+  background-color: #db6e0e;
 }
 .contact-icons a:hover i {
   animation: translateY 0.8s infinite alternate;
   color: #d34040;
 }
 .contact-button {
-  border: 1px solid #FFF;
+  border: 1px solid #db6e0e;
   padding: 18px 100px;
   border-radius: 4px;
-  color: #FFF;
-  background-color: #e96d6d;
+  color: #e1e1de;
+  background-color: #db6e0e;
   transition: background-color 0.8s;
 }
 
 .contact-button:hover {
-  border: 1px solid #d34040;
-  background-color: #d34040;
+  border: 1px solid #f7b276;
+  background-color: #f7b276;
 }
 
 .header-logo {
@@ -101,35 +103,27 @@ i {
     padding: 15px 20px;
   }
 }
-.container {
-  max-width: 1440px;
-  margin: 0 auto;
-  padding: 0 10rem;
-}
 
-.bg-home {
-  position: relative;
-}
-
-.bg-home::before {
-  content: "";
-  display: block;
-  position: absolute;
-  background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.1), #06121e), url("./imageBg.jpg");
-  left: 0;
-  top: 0;
+.ContainerTitleLogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5rem;
   width: 100%;
-  height: 100%;
-  z-index: -1;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: 50% 0;
-  opacity: 0.9;
+  background-color: #e1e1de;
 }
+
+.ContainerTitleLogo img {
+  width: 100%;
+  height: auto;
+  max-width: 1453px;
+  display: block;
+  margin: 0 auto;
+}
+
 
 .hero {
-  color: #FFF;
-  min-height: 80vh;
+  background-color: #e1e1de;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -138,19 +132,20 @@ i {
 }
 .hero h1 {
   text-align: center;
-  line-height: 150%;
   max-width: 940px;
   font-size: 46px;
+  color: #11344d;
 }
 .hero p {
   text-align: center;
   margin: 14px 0;
+  color: #11344d;
 }
 
 .button-contact {
   padding: 14px 28px;
-  color: #FFF;
-  background-color: #d94140;
+  color: #e1e1de;
+  background-color: #db6e0e;
   border: 0;
   font-size: 18px;
   font-weight: 600;
@@ -164,8 +159,8 @@ i {
 .button-siga-insta {
   display: flex;
   padding: 14px 28px;
-  color: #FFF;
-  background-color: #d94140;
+  color: #e1e1de;
+  background-color: #db6e0e;
   border: 0;
   border-radius: 5px;
   gap: 20px;
@@ -193,7 +188,6 @@ i {
 
   }
   .hero {
-    min-height: 60vh;
   }
   .hero h1 {
     font-size: 34px;
@@ -210,9 +204,9 @@ i {
   }
 }
 .about {
-  background-color: #06121e;
+  background-color: #11344D;
   overflow: hidden;
-  color: #FFF;
+  color: #e1e1de;
 }
 
 .about-content {
@@ -245,8 +239,18 @@ i {
     flex-direction: column;
   }
 }
+
+.ContainerConfianca {
+  background-color: #e1e1de;
+  color: #232224;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 54px 14px;
+}
 .services {
-  background-color: #FFF;
+  background-color: #e1e1de;
   color: #232224;
   display: flex;
   flex-direction: column;
@@ -259,7 +263,7 @@ i {
 
 .services-vermais-bt-container {  
   width: 100%;
-  background-color: #06121e;
+  background-color: #11344d;
   color: #232224;
   display: flex;
   flex-direction: column;
@@ -331,7 +335,7 @@ i {
   border: none;
   border-radius: 8px;
 
-  color: white;
+  color: #e1e1de;
   padding: 10px;
   cursor: pointer;
 }
@@ -350,7 +354,7 @@ i {
   grid-template-columns: repeat(3, 1fr); 
   justify-content: center;
   align-items: center;
-  background-color: #06121e;
+  background-color: #11344d;
   gap: 16px;
   padding: 44px 44px 34px 44px;
 }
@@ -359,7 +363,7 @@ i {
   flex: 1;
   display: flex;
   flex-direction: column;
-  background-color: #FFF;
+  background-color: #e1e1de;
   border-radius: 8px;
   box-shadow: 0px -1px 17px -4px rgba(0, 0, 0, 0.45);
   overflow: hidden;
@@ -385,13 +389,13 @@ i {
   align-items: center;
   justify-content: space-between;
   padding: 14px;
-  background-color: #FFF;
+  background-color: #e1e1de;
   z-index: 99;
 }
 
 .product-info button {
-  color: #FFF;
-  background-color: #d94140;
+  color: #e1e1de;
+  background-color: #db6e0e;
   padding: 10px 70px;
   border-radius: 4px;
   border: 0;
@@ -425,13 +429,16 @@ i {
   justify-content: center;
   padding: 54px 0;
   gap: 24px;
-  color: #FFF;
+  color: #11344d;
+  background-color: #e1e1de;
 }
 
 .footer-icons {
   display: flex;
+  align-items: center;
+  justify-content: center;
   gap: 8px;
-  color: #FFF;
+  color: #e1e1de;
 }
 
 .btn-whatsapp {
@@ -458,7 +465,7 @@ i {
   border-radius: 8px;
   text-align: center;
   background-color: #232224;
-  color: #FFF;
+  color: #e1e1de;
   opacity: 0;
   transition: opacity 0.4s;
 }
@@ -478,7 +485,7 @@ body {
   width: 100%;
   height: 100vh;
   position: relative;
-  background-color: #06121e;
+  background-color: #11344d;
 }
 
 button {
@@ -497,7 +504,7 @@ img {
 a {
   cursor: pointer;
   text-decoration: none;
-}/*# sourceMappingURL=style.css.map */
+}
 
 .check-icon {
   color: #0D8784;
@@ -551,7 +558,7 @@ a {
 
 .ContainerItems {
     display: flex;
-    margin-top: 3rem;
+    margin-top: 5rem;
     gap: 4rem;
     align-items: center;
     justify-content: center;
@@ -586,7 +593,7 @@ a {
 .TextDescriptionIcons {
     font-size: 14px;
     font-weight: bold;
-    color: white;
+    color: #db6e0e;
     text-align: center;
 }
 
@@ -605,13 +612,14 @@ a {
     height: 50px;
     font-size: 20px;
     padding-left: 0.5rem;
+    background-color: #e1e1de;
 
     
   }
 
 @media screen and (max-width: 910px) {
     .SearchInput{
-      width: 280px;
+      width: 380px;
       height: 60px;
     }
 }
@@ -636,17 +644,17 @@ a {
 }
 
 ::-webkit-scrollbar-track {
-  background-color: #FFF; 
+  background-color: #e1e1de; 
 }
 
 ::-webkit-scrollbar-corner {
-  background-color: #FFF; 
+  background-color: #e1e1de; 
 }
 
 .carousel-feira {
   position: relative;
   width: 80%;
-  max-width: 600px;
+  max-width: 800px;
   min-width: 400px;
   overflow: hidden;
   border: none;
@@ -677,7 +685,7 @@ a {
   top: 50%;
   transform: translateY(-50%);
   background-color: rgba(0, 0, 0, 0.5);
-  color: #fff;
+  color: #e1e1de;
   border: none;
   font-size: 24px;
   cursor: pointer;
